@@ -1,0 +1,110 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "about": "À Propos",
+        "features": "Fonctionnalités",
+        "technology": "Technologie",
+        "team": "Équipe",
+        "docs": "Documentation",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Révolutionner la Blockchain pour la Conformité Légale",
+        "subtitle": "JuraChain - L'Avenir de la Justice Décentralisée",
+        "description": "Technologie blockchain de niveau entreprise qui intègre harmonieusement les cadres juridiques à l'innovation décentralisée. Sécurisée, transparente et entièrement conforme.",
+        "cta_primary": "Commencer",
+        "cta_secondary": "Explorer la Documentation",
+        "badge": "Disponible Maintenant"
+    },
+    "about": {
+        "title": "À Propos de JuraChain",
+        "subtitle": "Relier le Droit et la Blockchain",
+        "mission": {
+            "title": "Notre Mission",
+            "description": "Démocratiser la technologie blockchain en garantissant la conformité légale, la transparence et l'accessibilité pour les entreprises mondiales."
+        },
+        "vision": {
+            "title": "Notre Vision",
+            "description": "Un monde où la blockchain sert de fondation aux processus commerciaux dignes de confiance, efficaces et légalement valides dans tous les secteurs."
+        }
+    },
+    "features": {
+        "title": "Fonctionnalités Puissantes",
+        "subtitle": "Tout ce dont vous avez besoin pour la blockchain entreprise",
+        "items": {
+            "legal_compliance": {
+                "title": "Conformité Légale",
+                "description": "Construite en respectant les cadres réglementaires avec GDPR, SOC2 et ISO27001."
+            },
+            "transparency": {
+                "title": "Transparence Complète",
+                "description": "Chaque transaction est immuable, auditable et traçable sur notre registre distribué."
+            },
+            "security": {
+                "title": "Sécurité Entreprise",
+                "description": "Chiffrement de niveau militaire avec authentification multi-signatures et preuves sans divulgation."
+            },
+            "scalability": {
+                "title": "Scalabilité Illimitée",
+                "description": "Traitez des millions de transactions avec une latence inférieure à une seconde."
+            },
+            "interoperability": {
+                "title": "Interopérabilité Complète",
+                "description": "Intégrez-vous facilement aux systèmes existants, APIs et infrastructures d'entreprise."
+            },
+            "sustainability": {
+                "title": "Écologique",
+                "description": "Réduction de 99,9% de la consommation énergétique. Opérations carbonégatives."
+            }
+        }
+    },
+    "technology": {
+        "title": "Stack Technologique",
+        "subtitle": "Construite sur la technologie de registre distribué de pointe",
+        "architecture": {
+            "title": "Architecture Avancée",
+            "description": "Conçue de manière modulaire, supportant les mécanismes de consensus personnalisés et les contrôles de confidentialité."
+        },
+        "consensus": {
+            "title": "Consensus Hybride",
+            "description": "Combine Proof of Stake et Byzantine Fault Tolerance pour une sécurité et efficacité optimales."
+        },
+        "smart_contracts": {
+            "title": "Contrats Intelligents",
+            "description": "Contrats compatibles Solidity avec validation juridique intégrée et traçabilité complète."
+        },
+        "privacy": {
+            "title": "Couche Confidentialité",
+            "description": "Preuves sans divulgation et chiffrement homomorphe pour des transactions confidentielles."
+        }
+    },
+    "team": {
+        "title": "Rencontrez Notre Équipe",
+        "subtitle": "Experts en innovation blockchain et juridique",
+        "coming_soon": "Détails de l'équipe à venir"
+    },
+    "cta": {
+        "title": "Prêt à Transformer Votre Entreprise?",
+        "description": "Rejoignez les entreprises utilisant JuraChain pour des solutions blockchain sécurisées et conformes.",
+        "button": "Commencer Votre Voyage",
+        "secondary": "Planifier une Démo"
+    },
+    "footer": {
+        "company": "Entreprise",
+        "product": "Produit",
+        "resources": "Ressources",
+        "legal": "Juridique",
+        "about": "À Propos",
+        "pricing": "Tarification",
+        "blog": "Blog",
+        "docs": "Documentation",
+        "api": "Docs API",
+        "privacy": "Politique de Confidentialité",
+        "terms": "Conditions d'Utilisation",
+        "contact": "Contact",
+        "support": "Support",
+        "community": "Communauté",
+        "rights": "© 2025 JuraChain. Tous droits réservés.",
+        "socials": "Suivez-nous"
+    }
+}

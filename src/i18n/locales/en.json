@@ -1,0 +1,110 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "features": "Features",
+        "technology": "Technology",
+        "team": "Team",
+        "docs": "Documentation",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Revolutionizing Blockchain for Legal Compliance",
+        "subtitle": "JuraChain - The Future of Decentralized Justice",
+        "description": "Enterprise-grade blockchain technology that seamlessly integrates legal frameworks with decentralized innovation. Secure, transparent, and fully compliant.",
+        "cta_primary": "Get Started",
+        "cta_secondary": "Explore Documentation",
+        "badge": "Now Available"
+    },
+    "about": {
+        "title": "About JuraChain",
+        "subtitle": "Bridging Law and Blockchain",
+        "mission": {
+            "title": "Our Mission",
+            "description": "To democratize blockchain technology by ensuring legal compliance, transparency, and accessibility for enterprises worldwide."
+        },
+        "vision": {
+            "title": "Our Vision",
+            "description": "A world where blockchain serves as the backbone of trustworthy, efficient, and legally sound business processes across all industries."
+        }
+    },
+    "features": {
+        "title": "Powerful Features",
+        "subtitle": "Everything you need for enterprise blockchain",
+        "items": {
+            "legal_compliance": {
+                "title": "Legal Compliance",
+                "description": "Built with regulatory frameworks ensuring full GDPR, SOC2, and ISO27001 compliance."
+            },
+            "transparency": {
+                "title": "Full Transparency",
+                "description": "Every transaction is immutable, auditable, and traceable on our distributed ledger."
+            },
+            "security": {
+                "title": "Enterprise Security",
+                "description": "Military-grade encryption with multi-signature authentication and zero-knowledge proofs."
+            },
+            "scalability": {
+                "title": "Unlimited Scalability",
+                "description": "Process millions of transactions with sub-second latency and near-zero costs."
+            },
+            "interoperability": {
+                "title": "Full Interoperability",
+                "description": "Seamlessly integrate with existing systems, APIs, and enterprise infrastructure."
+            },
+            "sustainability": {
+                "title": "Eco-Friendly",
+                "description": "99.9% energy reduction compared to traditional blockchains. Carbon-negative operations."
+            }
+        }
+    },
+    "technology": {
+        "title": "Technology Stack",
+        "subtitle": "Built on cutting-edge distributed ledger technology",
+        "architecture": {
+            "title": "Advanced Architecture",
+            "description": "Designed with a modular approach, supporting custom consensus mechanisms and privacy controls for diverse use cases."
+        },
+        "consensus": {
+            "title": "Hybrid Consensus",
+            "description": "Combines Proof of Stake with Byzantine Fault Tolerance for optimal security and efficiency."
+        },
+        "smart_contracts": {
+            "title": "Smart Contracts",
+            "description": "Solidity-compatible contracts with built-in legal validation, audit trails, and governance controls."
+        },
+        "privacy": {
+            "title": "Privacy Layer",
+            "description": "Zero-knowledge proofs and homomorphic encryption for confidential transactions while maintaining auditability."
+        }
+    },
+    "team": {
+        "title": "Meet Our Team",
+        "subtitle": "Experts in blockchain and legal innovation",
+        "coming_soon": "Team details coming soon"
+    },
+    "cta": {
+        "title": "Ready to Transform Your Business?",
+        "description": "Join enterprises leveraging JuraChain for secure, compliant blockchain solutions.",
+        "button": "Start Your Journey",
+        "secondary": "Schedule Demo"
+    },
+    "footer": {
+        "company": "Company",
+        "product": "Product",
+        "resources": "Resources",
+        "legal": "Legal",
+        "about": "About Us",
+        "pricing": "Pricing",
+        "blog": "Blog",
+        "docs": "Documentation",
+        "api": "API Docs",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "contact": "Contact",
+        "support": "Support",
+        "community": "Community",
+        "rights": "© 2025 JuraChain. All rights reserved.",
+        "socials": "Follow Us"
+    }
+}
